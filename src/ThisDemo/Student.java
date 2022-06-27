@@ -22,7 +22,8 @@ public class Student {
 		stud.getStudInfo();
 		Student stud1=new Student("Vijay",31);
 		stud1.getStudInfo();
-
+		System.out.println("Git Testing");
 	}
+	
 
 }
